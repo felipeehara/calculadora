@@ -1,3 +1,4 @@
+"use client"
 import { BodyCalc } from "./Components/BodyCalc/BodyCalc";
 import { Display } from "./Components/Display/display";
 import { Keyboard } from "./Components/Keyboard/keyboard";
